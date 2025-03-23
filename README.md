@@ -1,9 +1,7 @@
 ### Hi there 👋
-- I'm a 2nd year student at UC Davis. 🐮
-- I'm currently studying computer science(still just scratching the surface). 💻
+- I'm a 3rd year student at UC Davis. 🐮
+- I'm currently studying computer science. 💻
 - I'm interested in data science and web development. 🕸️📈
-- I'm trying to work on a new data science project based on pro and college football statistics. 🏈
-- Looking for help from anyone with expertise in data science and web development. 😎
 <!--
 **orangethree/orangethree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
