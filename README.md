@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a 3rd year student at UC Davis. 🐮
+- I'm a 4th year student at UC Davis. 🐮
 - I'm currently studying computer science. 💻
 - I'm interested in data science and web development. 🕸️📈
 <!--
